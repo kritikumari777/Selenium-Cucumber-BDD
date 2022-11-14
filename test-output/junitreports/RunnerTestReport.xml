@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="31.504">
+    <testcase classname="check login funcentility" name="check login with authorise user or not" time="16.676">
+        <system-out><![CDATA[Given user is on login page.................................................passed
+When user enter 123kritikumari@gmail.com and 12345..........................passed
+And user click on login button..............................................passed
+Then user click on logout button............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="check login funcentility" name="check login with authorise user or not 2" time="14.414">
+        <system-out><![CDATA[Given user is on login page.................................................passed
+When user enter kritikumari@gmail.com and 12345.............................passed
+And user click on login button..............................................passed
+Then user click on logout button............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
